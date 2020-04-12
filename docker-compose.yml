@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  taxadejuros.api:
+    image: ${DOCKER_REGISTRY-}taxadejurosapi
+    build:
+      context: .
+      dockerfile: TaxaDeJuros.API\Dockerfile
+    ports:
+      - "5102:80"
+
+  calculodejuros.api:
+    image: ${DOCKER_REGISTRY-}calculodejurosapi
+    build:
+      context: .
+      dockerfile: CalculoDeJuros.API\Dockerfile
+    ports:
+      - "5101:5101"
+    depends_on:
+      - taxadejuros.api
+

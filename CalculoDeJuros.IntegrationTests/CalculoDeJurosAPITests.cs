@@ -17,7 +17,7 @@ namespace CalculoDeJuros.IntegrationTests
         [Theory]
         [InlineData("/calculajuros?valorinicial=100&meses=5", "105.10")]
         [InlineData("/showmethecode", "https://github.com/Jeff-Klein/C-lculo-de-Juros-Compostos")]
-        [Trait("Integraï¿½ï¿½o", "Status CalculoDeJuros.API")]
+        [Trait("Integração", "Status CalculoDeJuros.API")]
         public async Task CalculoDeJurosAPI_ValidarRetornoEndpoints(string url, string retornoEsperado)
         {
 
