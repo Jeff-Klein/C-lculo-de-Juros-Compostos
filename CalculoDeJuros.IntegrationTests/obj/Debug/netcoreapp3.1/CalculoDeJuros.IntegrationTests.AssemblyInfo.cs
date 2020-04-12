@@ -11,9 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CalculoDeJuros.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Usuario\\source\\repos\\JurosSolution\\CalculoDeJuros.API", "CalculoDeJuros.API.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("CalculoDeJuros.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Usuario\\source\\repos\\JurosSolution\\CalculoDeJuros.Services", "CalculoDeJuros.Business.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("TaxaDeJuros.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Usuario\\source\\repos\\JurosSolution\\TaxaDeJuros.API", "TaxaDeJuros.API.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoDeJuros.IntegrationTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

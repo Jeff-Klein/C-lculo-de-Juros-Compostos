@@ -10,6 +10,6 @@ namespace CalculoDeJuros.API.Controllers
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public ActionResult<string> Get()
-            => Ok("https://github.com");
+            => Ok("https://github.com/Jeff-Klein/C-lculo-de-Juros-Compostos");
     }
 }

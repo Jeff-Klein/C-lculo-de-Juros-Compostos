@@ -1,8 +1,0 @@
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\bin\Debug\netcoreapp3.1\CalculoDeJuros.Business.deps.json
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\bin\Debug\netcoreapp3.1\CalculoDeJuros.Business.dll
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\bin\Debug\netcoreapp3.1\CalculoDeJuros.Business.pdb
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\obj\Debug\netcoreapp3.1\CalculoDeJuros.Business.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\obj\Debug\netcoreapp3.1\CalculoDeJuros.Business.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\obj\Debug\netcoreapp3.1\CalculoDeJuros.Business.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\obj\Debug\netcoreapp3.1\CalculoDeJuros.Business.dll
-C:\Users\Usuario\source\repos\JurosSolution\CalculoDeJuros.Services\obj\Debug\netcoreapp3.1\CalculoDeJuros.Business.pdb
