@@ -7,7 +7,7 @@ services:
       context: .
       dockerfile: TaxaDeJuros.API\Dockerfile
     ports:
-      - "5102:80"
+      - "5108:80"
 
   calculodejuros.api:
     image: ${DOCKER_REGISTRY-}calculodejurosapi
@@ -15,7 +15,7 @@ services:
       context: .
       dockerfile: CalculoDeJuros.API\Dockerfile
     ports:
-      - "5101:5101"
+      - "5104:80"
     depends_on:
       - taxadejuros.api
 

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+AJHs+5bl0QYtIWSMvcGNc/UTWmLzB3nkiRYzbi6n9kNf+CvI4Yk19bweXkG8oxl3Fvue5YXhsWnmvowcj6rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\git\\C-lculo-de-Juros-Compostos\\CalculoDeJuros.Services\\CalculoDeJuros.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
