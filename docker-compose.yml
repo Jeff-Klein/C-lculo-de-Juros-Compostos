@@ -18,4 +18,13 @@ services:
       - "5104:80"
     depends_on:
       - taxadejuros.api
+  calculodejuros.integrationtests:
+    image: ${DOCKER_REGISTRY-}calculodejurosintegrationtests
+    build:
+      context: .
+      dockerfile: CalculoDeJuros.IntegrationTests\Dockerfile
+    entrypoint: dotnet test
+    depends_on:
+      - taxadejuros.api
+      - calculodejuros.api
 

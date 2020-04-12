@@ -37,8 +37,6 @@ namespace CalculoDeJuros.API
                 app.UseDeveloperExceptionPage();
             }
 
-           // app.UseHttpsRedirection();
-
             app.UseSwagger();
 
             app.UseSwaggerUI(c =>

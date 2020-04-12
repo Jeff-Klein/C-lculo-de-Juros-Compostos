@@ -6,7 +6,7 @@
     <ProjectGuid>ffb5b4d9-e778-49af-97df-ecf48d1eaa02</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>taxadejuros.api</DockerServiceName>
+    <DockerServiceName>calculodejuros.api</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">
